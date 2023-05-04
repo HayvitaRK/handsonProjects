@@ -1,0 +1,28 @@
+h1{
+  color:#BA90C6;
+}
+h2{
+  color:#BA90C6;
+  font-style: italic;
+}
+body{
+  background-image: url('dru.jpg');
+  text-align:center;
+  background-position:inherit;
+}
+.btn{
+  border-radius:20%;
+   border-width: thick;
+   border-color: inherit;
+   padding:60px;
+   background-color:#2B3467;   
+   color:#FCFFE7;
+   margin:10px;
+ }
+
+
+.onclick{
+  opacity:30%;
+  background-color: grey;
+  border-color: grey;
+}

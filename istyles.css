@@ -1,0 +1,26 @@
+body {
+  background: url('iimages/patch.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hello{
+  font-size: 5em;
+  font-style: italic;
+  /* font-family: cursive; */
+  text-align: center;
+  color:#9BA4B5;
+}
+.msg
+{
+font-size:30px;
+float:center;
+}
+.size{
+  font-size: 1.5em;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+.color{
+  background-color: #9BA4B5;
+
+}
