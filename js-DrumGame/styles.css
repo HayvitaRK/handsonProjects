@@ -9,6 +9,8 @@ body{
   background-image: url('dru.jpg');
   text-align:center;
   background-position:inherit;
+    background-size: cover;
+  background-repeat: no-repeat;
 }
 .btn{
   border-radius:20%;
