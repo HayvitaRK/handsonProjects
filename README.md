@@ -1,5 +1,6 @@
 # handsonProjects
  This project file consists of some mini projects combined together in which I have applied the javascript to make the web page interactive.
+
 Visit site on:
 https://hayvitark.github.io/handsonProjects/
 ![image](https://github.com/HayvitaRK/handsonProjects/assets/130721261/43b807ae-a86d-4d25-b0dc-d9fd36dfd0e2)
